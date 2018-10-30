@@ -1,0 +1,125 @@
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,10
+Foamed Milk,10
+Steamed Milk,10
+Sugar,10
+Whipped Cream,10
+Menu:
+1,Caffe Americano,$3.30,true
+2,Caffe Latte,$2.55,true
+3,Caffe Mocha,$3.35,true
+4,Cappuccino,$2.90,true
+5,Coffee,$2.75,true
+6,Decaf Coffee,$2.75,true
+Dispensing: Decaf Coffee
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,9
+Decaf Coffee,7
+Espresso,10
+Foamed Milk,10
+Steamed Milk,10
+Sugar,9
+Whipped Cream,10
+Menu:
+1,Caffe Americano,$3.30,true
+2,Caffe Latte,$2.55,true
+3,Caffe Mocha,$3.35,true
+4,Cappuccino,$2.90,true
+5,Coffee,$2.75,true
+6,Decaf Coffee,$2.75,true
+Dispensing: Coffee
+Inventory:
+Cocoa,10
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,10
+Foamed Milk,10
+Steamed Milk,10
+Sugar,8
+Whipped Cream,10
+Menu:
+1,Caffe Americano,$3.30,true
+2,Caffe Latte,$2.55,true
+3,Caffe Mocha,$3.35,true
+4,Cappuccino,$2.90,true
+5,Coffee,$2.75,true
+6,Decaf Coffee,$2.75,true
+Dispensing: Cappuccino
+Inventory:
+Cocoa,10
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,8
+Foamed Milk,9
+Steamed Milk,9
+Sugar,8
+Whipped Cream,10
+Menu:
+1,Caffe Americano,$3.30,true
+2,Caffe Latte,$2.55,true
+3,Caffe Mocha,$3.35,true
+4,Cappuccino,$2.90,true
+5,Coffee,$2.75,true
+6,Decaf Coffee,$2.75,true
+Dispensing: Caffe Mocha
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,7
+Foamed Milk,9
+Steamed Milk,8
+Sugar,8
+Whipped Cream,9
+Menu:
+1,Caffe Americano,$3.30,true
+2,Caffe Latte,$2.55,true
+3,Caffe Mocha,$3.35,true
+4,Cappuccino,$2.90,true
+5,Coffee,$2.75,true
+6,Decaf Coffee,$2.75,true
+Dispensing: Caffe Latte
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,5
+Foamed Milk,9
+Steamed Milk,7
+Sugar,8
+Whipped Cream,9
+Menu:
+1,Caffe Americano,$3.30,true
+2,Caffe Latte,$2.55,true
+3,Caffe Mocha,$3.35,true
+4,Cappuccino,$2.90,true
+5,Coffee,$2.75,true
+6,Decaf Coffee,$2.75,true
+Dispensing: Caffe Americano
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,2
+Foamed Milk,9
+Steamed Milk,7
+Sugar,8
+Whipped Cream,9
+Menu:
+1,Caffe Americano,$3.30,false
+2,Caffe Latte,$2.55,true
+3,Caffe Mocha,$3.35,true
+4,Cappuccino,$2.90,true
+5,Coffee,$2.75,true
+6,Decaf Coffee,$2.75,true
